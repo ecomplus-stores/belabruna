@@ -7,9 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/bela-bruna-logo.png",
-  "name": "belabruna",
-  "short_name": "belabruna",
+  "logo": "/img/uploads/simbolo_transparente.png",
+  "name": "BelaBruna",
+  "short_name": "BelaBruna",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/simbolo_transparente.png",
   "store_id": 1178,
-  "description": "belabruna",
+  "description": "Loja BelaBruna! Moda feminina, Dicas & Inspirações!\nEnviamos para todo o Brasil, com muito amor.",
   "large_icon": "/img/uploads/simbolo_transparente.png"
 }
