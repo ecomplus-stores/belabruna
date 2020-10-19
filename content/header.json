@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Frete FIXO de R$15,00 para Minas Gerais, São Paulo e Rio de Janeiro.",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Dúvidas? Chame a gente no Direct ou Whats App!",
+        "link": "https://www.instagram.com/lojabelabruna/"
       }
     ],
     "phone_wpp": true,
