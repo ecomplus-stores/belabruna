@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Frete FIXO de R$15,00 para Minas Gerais, São Paulo e Rio de Janeiro.",
+    "text": "Frete FIXO de R$15,00 para MG, SP e RJ!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -18,5 +18,5 @@
     "random": 6,
     "full_width": false
   },
-  "search_input": true
+  "search_input": false
 }
