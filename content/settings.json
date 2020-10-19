@@ -4,11 +4,11 @@
   "primary_color": "#18bbb2",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/simbolo_transparente.png",
-  "name": "BelaBruna",
+  "name": "BelaBruna - Moda Feminina",
   "short_name": "BelaBruna",
   "lang": "pt_br",
   "currency": "BRL",
