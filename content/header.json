@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Frete FIXO de R$15,00 para MG, SP e RJ!",
+    "text": "Frete FIXO de R$15,00 para MG, SP e RJ!!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -15,7 +15,7 @@
   },
   "categories_list": {
     "featured": [
-      "/vestidos?Vestidos"
+      "/moda-feminina?Moda Feminina"
     ],
     "random": 6,
     "full_width": false
