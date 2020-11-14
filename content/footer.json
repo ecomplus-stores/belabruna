@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Teste Descricao Rodape",
-    "text": "Teste Descricao Rodape 2"
+    "title": "BelaBruna - Moda Feminina",
+    "text": "Siga nosso instagram @lojabelabruna para dicas e inspirações♡"
   },
   "links_1": {
     "list_pages": true,
@@ -29,11 +29,11 @@
   "payment_methods": {
     "bb": false,
     "visa": true,
-    "boleto": false,
+    "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
@@ -41,8 +41,8 @@
     "citibank": false,
     "hiper": false,
     "mais": false,
-    "amex": false,
+    "amex": true,
     "itau": false
   },
-  "credits": "Teste Créditos"
+  "credits": "\"O Senhor o protegerá de todo o mal, protegerá a sua vida. O Senhor protegerá a sua saída e a sua chegada, desde agora e para sempre\". Salmos 121:7-8"
 }
