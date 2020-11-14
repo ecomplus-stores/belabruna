@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete facilitado"
   },
   "installments": {
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Novidades todas as semanas!"
+    "text": "5% de desconto no Boleto"
   }
 }
