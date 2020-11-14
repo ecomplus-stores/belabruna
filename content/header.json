@@ -5,7 +5,11 @@
     "background": "#18bbb2"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Dúvidas? Chame a gente no Direct ou Whats App!"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
