@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Desconto no Frete para o SUDESTE ❤",
-    "link": ""
+    "link": "",
+    "background": "#18bbb2"
   },
   "contacts_stripe": {
     "pages": [
