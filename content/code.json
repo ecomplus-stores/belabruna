@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}\n\n.prices__discount span {\n  font-weight: bold !important;\n}\n\n\n .top-bar__countdown {\nbackground: #DCDCDC !important;\n}",
+  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}\n\n.prices__discount span {\n  font-weight: bold !important;\n}\n\n\n .top-bar__countdown {\nbackground: #B0E0E6 !important;\n}",
   "html_head": "",
   "html_body": ""
 }
