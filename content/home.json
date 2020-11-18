@@ -19,7 +19,7 @@
     },
     {
       "page": 1,
-      "title": "Nossos Looks",
+      "title": "Nossos Produtos",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
