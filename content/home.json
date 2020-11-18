@@ -18,13 +18,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 4,
       "page": 1,
+      "title": "Nossos Looks",
+      "shuffle": true,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://belabruna.com.br/moda-feminina",
+      "limit": 4,
       "collection_id": null,
-      "sort": "news",
-      "headless": true
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
