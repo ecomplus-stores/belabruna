@@ -32,7 +32,7 @@
       "limit": 4,
       "page": 2,
       "headless": true,
-      "sort": "lowest_price"
+      "sort": "news"
     }
   ]
 }
