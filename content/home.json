@@ -21,7 +21,7 @@
       "page": 1,
       "title": "Nossos Looks",
       "shuffle": true,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://belabruna.com.br/moda-feminina",
       "limit": 4,
