@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}\n\n.prices__discount span {\n  font-weight: bold !important;\n}\n\n\n.order-info__toggle {\n     display: none !important;}\n\n.product-card__name{\n    height: auto !important;\n}\n\n\n.info-bar {\n    background-color: #FFFFFF !important;\n}\n\n\n.info-bar__item {\n    font-weight: var(--font-bold) !important;\n}",
+  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}\n\n.prices__discount span {\n  font-weight: bold !important;\n}\n\n\n.order-info__toggle {\n     display: none !important;}\n\n\n\n.info-bar {\n    background-color: #FFFFFF !important;\n}\n\n\n.info-bar__item {\n    font-weight: var(--font-bold) !important;\n}\n\n.products-carousel__title{\n    color: #18BBB2 !important;\n}",
   "html_head": "",
   "html_body": ""
 }
