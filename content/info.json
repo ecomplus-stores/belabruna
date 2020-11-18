@@ -4,15 +4,15 @@
     "text": "Novidades todas as semanas"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele 3x sem juros"
+    "show": true,
+    "text": "Parcele 3x s/ juros"
   },
   "exchange": {
     "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Toda semana Looks diferentes, promoções e mais!"
   }
 }
