@@ -30,7 +30,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 4,
-      "page": 5,
+      "page": 2,
       "headless": true,
       "sort": "lowest_price"
     }
