@@ -1,11 +1,11 @@
 {
   "sections": [
     {
-      "type": "product-block",
+      "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
+      "type": "product-block",
       "enabled": true
     },
     {
