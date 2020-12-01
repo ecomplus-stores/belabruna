@@ -18,14 +18,11 @@
       "enabled": true
     },
     {
-      "page": 1,
-      "title": "Nossos Produtos",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://belabruna.com.br/moda-feminina",
+      "shuffle": true,
       "limit": 4,
-      "collection_id": null,
+      "page": 1,
+      "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
       "sort": "news"
     },
     {
@@ -33,8 +30,9 @@
       "shuffle": true,
       "limit": 4,
       "page": 2,
-      "headless": false,
-      "sort": "news"
+      "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
+      "sort": "news",
+      "headless": true
     }
   ]
 }
