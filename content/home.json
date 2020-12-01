@@ -20,10 +20,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
-      "page": "",
+      "limit": 2,
+      "page": 1,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
       "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
+      "sort": "lowest_price",
+      "headless": true
     }
   ]
 }
