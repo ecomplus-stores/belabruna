@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele 3x s/ juros | Desconto no Boleto"
+    "text": "Parcele 3x s/ juros "
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Toda loja com 10% OFF "
+    "text": "Desconto no Boleto Bancário"
   }
 }
