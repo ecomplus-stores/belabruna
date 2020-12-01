@@ -9,8 +9,8 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "enabled": true
+      "type": "related-products",
+      "title": "Veja também"
     },
     {
       "type": "recommended-products",
