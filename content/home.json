@@ -33,7 +33,7 @@
       "shuffle": true,
       "limit": 4,
       "page": 2,
-      "headless": true,
+      "headless": false,
       "sort": "news"
     }
   ]
