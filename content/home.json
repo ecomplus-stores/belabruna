@@ -21,7 +21,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 2,
+      "limit": 4,
       "page": 1,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
       "sort": "lowest_price"
@@ -29,8 +29,17 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": 4,
+      "page": 2,
+      "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
+      "sort": "lowest_price",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 3,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
       "sort": "lowest_price",
       "headless": true
