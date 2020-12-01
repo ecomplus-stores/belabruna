@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele 3x s/ juros"
+    "text": "Parcele 3x s/ juros | Desconto no Boleto"
   },
   "exchange": {
     "show": false,
