@@ -77,7 +77,8 @@
       "limit": 4,
       "page": 7,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     }
   ]
 }
