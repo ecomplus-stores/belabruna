@@ -41,7 +41,7 @@
       "limit": 4,
       "page": 3,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
-      "sort": "lowest_price",
+      "sort": "news",
       "headless": true
     },
     {
@@ -50,26 +50,34 @@
       "limit": 4,
       "page": 4,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
-      "sort": "views",
+      "sort": "news",
       "headless": true
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 4,
       "page": 5,
-      "sort": "lowest_price",
+      "sort": "news",
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
       "headless": true
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 4,
       "page": 6,
       "headless": true,
       "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
-      "sort": "lowest_price"
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 7,
+      "collection_id": "5faff40580c6216a3fc5ebfd:categories:Moda Feminina:/moda-feminina",
+      "sort": "news"
     }
   ]
 }
