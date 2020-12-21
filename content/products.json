@@ -9,10 +9,6 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<script>  storefront.on('widget:@ecomplus/widget-minicart', function () {setTimeout(function () {document.getElementById('product-payment').classList.add('show')}, 1000);});</script>"
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
