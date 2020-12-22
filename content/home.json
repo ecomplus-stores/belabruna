@@ -40,9 +40,9 @@
       "shuffle": true,
       "limit": 4,
       "page": 3,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "views",
-      "headless": true
+      "collection_id": "5fe20ed269274c73fcebb69b:categories:Conjuntos para você arrasar!:/conjuntos-para-voce-arrasar",
+      "sort": "offers",
+      "headless": false
     },
     {
       "type": "collection-shelf",
