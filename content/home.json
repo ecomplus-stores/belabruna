@@ -41,7 +41,7 @@
       "limit": 4,
       "page": 3,
       "collection_id": "5fe20ed269274c73fcebb69b:categories:Conjuntos para você arrasar!:/conjuntos-para-voce-arrasar",
-      "sort": "offers",
+      "sort": "slug",
       "headless": false
     },
     {
