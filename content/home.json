@@ -42,7 +42,7 @@
       "page": 3,
       "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
       "sort": "news",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
