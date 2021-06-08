@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://belabruna.com.br/moda-feminina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://belabruna.com.br/novidades-da-semana-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://belabruna.com.br/conjuntos-para-voce-arrasar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://belabruna.com.br/cropped-renda-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -263,6 +245,24 @@
       <loc>https://belabruna.com.br/conjunto-fio-flame-bege</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://belabruna.com.br/moda-feminina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://belabruna.com.br/novidades-da-semana-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://belabruna.com.br/conjuntos-para-voce-arrasar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
