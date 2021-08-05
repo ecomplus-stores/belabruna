@@ -14,7 +14,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/moda-feminina?Coleção da Semana"
+    ],
     "random": 6,
     "full_width": false
   },
