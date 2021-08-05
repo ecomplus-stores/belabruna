@@ -79,7 +79,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 8,
-      "sort": "offers",
+      "sort": "highest_price",
       "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live"
     }
   ]
