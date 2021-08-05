@@ -3,18 +3,6 @@
   "meta_description": "BelaBruna - Moda Feminina",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 7000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-pc.jpg",
-          "mobile_img": "/img/uploads/belabruna-moda-feminina-instagram-looks.jpeg"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -23,16 +11,16 @@
       "shuffle": true,
       "limit": 4,
       "page": 1,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "news"
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 4,
       "page": 2,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "news",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price",
       "headless": true
     },
     {
@@ -40,8 +28,8 @@
       "shuffle": true,
       "limit": 4,
       "page": 3,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "news",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price",
       "headless": true
     },
     {
@@ -49,8 +37,8 @@
       "shuffle": false,
       "limit": 4,
       "page": 4,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "news",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price",
       "headless": true
     },
     {
@@ -58,7 +46,7 @@
       "shuffle": true,
       "limit": 4,
       "page": 5,
-      "sort": "news",
+      "sort": "lowest_price",
       "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
       "headless": true
     },
@@ -68,16 +56,16 @@
       "limit": 4,
       "page": 6,
       "headless": true,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "views"
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 4,
       "page": 7,
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
-      "sort": "sales",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "lowest_price",
       "headless": true
     }
   ]
