@@ -32,6 +32,15 @@
       "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
       "sort": "offers",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "sort": "sales",
+      "title": "Veja Também"
     }
   ]
 }
