@@ -67,6 +67,12 @@
       "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
       "sort": "lowest_price",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 7
     }
   ]
 }
