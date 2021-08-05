@@ -73,6 +73,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 7
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 8,
+      "sort": "offers",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live"
     }
   ]
 }
