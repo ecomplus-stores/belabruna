@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "1° Live @lojabelabruna !",
+    "text": "Live PROVADOR",
     "link": "",
     "background": "#18bbb2"
   },
@@ -15,7 +15,7 @@
   },
   "categories_list": {
     "featured": [
-      "/promocoes-da-live?Promoções da LIVE"
+      "/livre-provador-belabruna?Live Provador"
     ],
     "random": 6,
     "full_width": false
