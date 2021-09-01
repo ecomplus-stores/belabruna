@@ -11,7 +11,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price"
     },
     {
@@ -19,7 +19,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price",
       "headless": true
     },
@@ -28,7 +28,7 @@
       "shuffle": true,
       "limit": 9,
       "page": 3,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price",
       "headless": true
     },
@@ -37,7 +37,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 4,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price",
       "headless": true
     },
@@ -47,7 +47,7 @@
       "limit": 12,
       "page": 5,
       "sort": "lowest_price",
-      "collection_id": "5fd9843169274c73fce98cd1:categories:Novidades da Semana 😱:/novidades-da-semana-",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "headless": true
     },
     {
@@ -56,7 +56,7 @@
       "limit": 10,
       "page": 6,
       "headless": true,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price"
     },
     {
@@ -64,7 +64,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 7,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "lowest_price",
       "headless": true
     },
@@ -72,7 +72,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 7
+      "page": 7,
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna"
     },
     {
       "type": "collection-shelf",
@@ -80,7 +81,7 @@
       "limit": 12,
       "page": 8,
       "sort": "highest_price",
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live"
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna"
     }
   ]
 }
