@@ -29,7 +29,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "offers",
       "headless": false
     },
@@ -38,7 +38,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 2,
-      "collection_id": "610b48a433f3ce442f83682b:categories:Promoções da LIVE:/promocoes-da-live",
+      "collection_id": "610b48a433f3ce442f83682b:categories:Live Provador:/livre-provador-belabruna",
       "sort": "sales",
       "title": "Veja Também"
     }
