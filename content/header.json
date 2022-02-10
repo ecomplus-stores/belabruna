@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "❤️Looks Fim de Ano da @lojabelabruna❤️",
+    "text": "❤️Live @lojabelabruna❤️",
     "link": "",
     "background": "#18bbb2"
   },
@@ -20,5 +20,6 @@
     "random": 6,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
