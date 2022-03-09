@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Novidades todas as semanas "
+    "show": true,
+    "text": "Frete Grátis nas Compras acima de R$140,00 BH e Regiao"
   },
   "installments": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Parcele 6x s/ juros"
+    "text": "Parcele 3x s/ juros"
   }
 }
