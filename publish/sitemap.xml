@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://belabruna.com.br/livre-provador-belabruna</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://belabruna.com.br/vestido-agatha</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -224,15 +230,15 @@
     </url>
   
     <url>
-      <loc>https://belabruna.com.br/vestido-longuete-crepe-seda-c190</loc>
+      <loc>https://belabruna.com.br/vestido-longuete-visc</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://belabruna.com.br/livre-provador-belabruna</loc>
+      <loc>https://belabruna.com.br/vestido-longuete-crepe-seda-c902</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
